@@ -8,7 +8,7 @@ from langchain_openai import ChatOpenAI, OpenAI
 import os
 load_dotenv()
 
-
+git 
 def main():
 
     information ="""
